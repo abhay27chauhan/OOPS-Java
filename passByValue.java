@@ -1,3 +1,5 @@
+// JAVA is pass by value
+
 public class passByValue{
 
     public static void swap(int a, int d){
@@ -53,4 +55,4 @@ class Dog{
     int legs;
 }
 
-/* in case of non-primitive data types no new copy of values is being made rather the object's reference is being passed to the function whereas in case of primitive data types the copy of the values are made and passed to the function and not the reference. And because of this reason, in the second case of non-primitive data types d2.legs value changes*/
+/* in case of non-primitive data types no new copy of values is being made rather the object's reference is being passed to the function whereas in case of primitive data types the copy of the values are made and passed to the function and not the reference. And because of this reason, in the case of non-primitive data types d2.legs value changes*/

@@ -1,4 +1,3 @@
-// JAVA is pass by value
 // every file can contain only single 'public' main class
 
 public class oops1{
