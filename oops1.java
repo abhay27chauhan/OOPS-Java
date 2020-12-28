@@ -62,6 +62,6 @@ class Person{
     2 Types -> 1. Compiled Time Polymorphism
                2. Runtime Polymorphism
 
-    void walk(){} and void walk(int steps){} are examples of compiled time polymorphism because we can tell which function will run when called at compiled time only
+    void walk(){} and void walk(int steps){} are examples of compiled time polymorphism because we can tell which function will run when called, at compiled time only
 
 */
