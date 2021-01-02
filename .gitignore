@@ -5,3 +5,6 @@ Person.class
 constructor.class
 Vehicle1.class
 Vehicle2.class
+StaticKeyword.class
+StaticKeyword$C.class
+StaticKeyword$Person.class
